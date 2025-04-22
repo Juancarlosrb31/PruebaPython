@@ -17,6 +17,9 @@ def esMayorDeEdad(edad):
     else:
         return "Eres menor de Edad"
 print(esMayorDeEdad(edad))
+
+
+# ejercicios de prueba 
             
             
             
