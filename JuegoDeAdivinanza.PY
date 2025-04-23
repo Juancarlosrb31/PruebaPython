@@ -19,6 +19,6 @@ def juego_adivinanza():
             
         else:
             adivinado = True
-            print("Felicidades Adivinaste el numero en {intentos} intentos.")
-            
+            print("Felicidades Adivinaste el numero en", intentos)
+             
 juego_adivinanza()
